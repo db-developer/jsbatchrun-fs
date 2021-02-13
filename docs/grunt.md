@@ -1,3 +1,7 @@
+[[ BACK (to readme.md)]](../README.md) &nbsp; [[ API ]](api.index.md) &nbsp;
+[[ Contributing ]](contributing.md) &nbsp; [[ Frameworks ]](frameworks.md)
+&nbsp; [[ HELP (jsbr fs clean) ]](fs.clean.md)
+
 ## make targets of gruntfile.js and package.json ##
 
 This guide assumes, that you are familiar with the use of [git](https://git-scm.com/ "Homepage of GIT"), [npm](https://npmjs.com "Homepage of npm") and [grunt](https://gruntjs.com "Homepage of grunt").  

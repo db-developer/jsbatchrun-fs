@@ -1,6 +1,7 @@
 [[ BACK (to readme.md)]](../README.md) &nbsp; [[ API ]](api.index.md) &nbsp;
 [[ HELP (jsbr fs clean) ]](fs.clean.md) &nbsp; [[ Frameworks ]](frameworks.md)
-________________________________________________________________________________
+&nbsp; [[ Grunt ]](grunt.md)
+
 ## contributing guidelines ##
 
 By contributing (aka sending in pull requests) you certify that:

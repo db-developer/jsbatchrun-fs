@@ -1,5 +1,7 @@
 [[ BACK (to readme.md)]](../README.md) &nbsp; [[ API ]](api.index.md) &nbsp;
 [[ Contributing ]](contributing.md) &nbsp; [[ Frameworks ]](frameworks.md)
+&nbsp; [[ Grunt ]](grunt.md)
+
 ## jsbr fs clean &lt;options&gt; [directories] ##
 <blockquote>
   <p>Remove one or more files or directories from one or more (project) directories.</p>
