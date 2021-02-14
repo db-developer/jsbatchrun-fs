@@ -1,6 +1,6 @@
 {
   "name": "jsbatchrun-fs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "jsbatchrun plugin - do filesystem tasks",
   "author": "Dirk Brenckmann <db.developer@gmx.de>",
   "license": "MIT",
