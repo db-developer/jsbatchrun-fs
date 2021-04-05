@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/db-developer/jsbatchrun-fs.git"
+    "url": "git+https://github.com/jsbatch/jsbatchrun-fs.git"
   },
   "keywords": [
     "jsbatchrun",
@@ -30,9 +30,9 @@
     "lib"
   ],
   "bugs": {
-    "url": "https://github.com/db-developer/jsbatchrun-fs/issues"
+    "url": "https://github.com/jsbatch/jsbatchrun-fs/issues"
   },
-  "homepage": "https://github.com/db-developer/jsbatchrun-fs#readme",
+  "homepage": "https://github.com/jsbatch/jsbatchrun-fs#readme",
   "peerDependencies": {},
   "devDependencies": {
     "@babel/core": "^7.13.14",
