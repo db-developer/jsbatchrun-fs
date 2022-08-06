@@ -8,7 +8,7 @@ do filesystem tasks with this [jsbatchrun](https://www.npmjs.com/package/jsbatch
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 [![codecov](https://codecov.io/gh/db-developer/jsbatchrun-fs/branch/master/graph/badge.svg)](https://codecov.io/gh/db-developer/jsbatchrun-fs)
 [![Build Status](https://travis-ci.com/db-developer/jsbatchrun-fs.svg?branch=master)](https://travis-ci.com/db-developer/jsbatchrun-fs)
-[![dependencies](https://david-dm.org/db-developer/jsbatchrun-fs.svg)](https://david-dm.org/)
+[![dependencies](https://img.shields.io/librariesio/release/npm/jsbatchrun-fs)](https://libraries.io/)
 
 jsbatchrun-fs uses [grunt](https://gruntjs.com/) for accessing files in a platform independent manner.
 
